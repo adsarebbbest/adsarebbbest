@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learing c and c++
+- 🔭 I’m currently learing ejs
