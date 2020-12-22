@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learing ejs
+- 🔭 I’m currently learing mjs
